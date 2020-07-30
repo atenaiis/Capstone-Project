@@ -288,7 +288,7 @@ padding-right: 50px;
     }
 
     .bottom_list,
-    .services-section,
+    .services-section
      {
       background-color: #888888;
     }
@@ -550,10 +550,6 @@ width: 500px;
 height: 450px;
 }
 
-.grid3{
-
-
-}
 .star-rating {
   width: 70px;
   height: 14px;
